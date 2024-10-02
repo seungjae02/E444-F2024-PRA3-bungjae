@@ -1,4 +1,4 @@
-#!/Users/sjy1126/Projects/E444-F2024-PRA3-bungjae/flaskr-tdd/env/bin/python3
+#!/Users/sjy1126/Projects/E444-F2024-PRA3-bungjae/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
