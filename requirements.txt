@@ -1,6 +1,6 @@
 Flask
 Flask-SQLAlchemy
-gunicorn==19.7.1
+gunicorn
 psycopg2-binary
 black
 flake8
